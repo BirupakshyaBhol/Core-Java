@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS test.student;
+CREATE TABLE student (id INT PRIMARY KEY , name VARCHAR(20) NOT NULL);
