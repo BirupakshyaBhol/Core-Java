@@ -10,13 +10,3 @@ Used Eclipse Luna
 6. Module 6: Working with Databases  
 7. Module 7: Network Programming with Sockets  
 8. Module 8: Managing Java Programme Memory, Unit Testing with JUNIT
-
-
-
-
-
-
-
-=======
-# java7
->>>>>>> 279dbbca848f452c7c08bb799e374d5859a0ff2b
