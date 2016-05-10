@@ -17,3 +17,6 @@ Used Eclipse Luna
 
 
 
+=======
+# java7
+>>>>>>> 279dbbca848f452c7c08bb799e374d5859a0ff2b
